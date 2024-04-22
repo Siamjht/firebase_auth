@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194884969481",
+    "project_id": "flutter-drive-421003",
+    "storage_bucket": "flutter-drive-421003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194884969481:android:8ff955be103ced0c3684d8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_drive_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALl3pQSPr7C1i-KWhgbjme9h2XZSgnkBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
